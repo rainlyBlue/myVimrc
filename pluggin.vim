@@ -16,7 +16,7 @@ Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app & yarn install'  }
 Plug 'mattn/emmet-vim'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'ycm-core/YouCompleteMe'
-
+Plug 'liuchengxu/graphviz.vim'
 
 call plug#end()
 
